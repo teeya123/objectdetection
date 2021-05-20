@@ -19,7 +19,7 @@ if(error){
     console.log(error);
 }
 console.log(results);
-object=results;
+objects=results;
 }
 function setup(){
     canvas=createCanvas(640,420);
